@@ -1,0 +1,5 @@
+To build this we will need simple 4 things:
+1. pandas
+2. numpy
+3. scikit-learn
+4. streamlit
